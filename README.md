@@ -1,5 +1,6 @@
 # INF 554 Assignment 7
-
+Group name: dalabonba
+Group member: Ting-Hsuan Lin, Chi-Wei Liu, Guang Li
 ## INF 554 Project Presentation - McDonald's Nutrition Visualization
 
 ### Topic
